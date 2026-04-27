@@ -1,7 +1,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-<h1 align="center">Hi👋, I'm BHARANEEDHARAN S</h1>
-<h3 align="center">An Inquisitive Engineer 🔍</h3>
-<p align="center">🚀 Future Software Engineer | MERN Stack Enthusiast | Java & DSA | Creativity Meets Logic ✨</p>
+<h1 align="center">Hi, I'm BHARANEEDHARAN S</h1>
+<h3 align="center">An Inquisitive Engineer ^_^</h3>
+<p align="center">Future Software Engineer | MERN Stack Enthusiast | Java & DSA | Creativity Meets Logic </p>
 <br>
 <div align="center">
 
@@ -25,7 +25,7 @@
 ### About Me:
 - ✨ Building with curiosity and consistency 
 - 💬 **Java**-focused
-- 📫 How to reach me **bharaneedharans.23cse@kongu.edu**
+- 📫 How to reach me **bharanickv15@gmail.com**
 - ⚡ Fun fact **' Commitment Issues Resolved '**
   
 <br>
